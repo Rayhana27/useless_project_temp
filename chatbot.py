@@ -4,7 +4,7 @@ import pickle
 
 pairs = [
     [
-        r"(Hi|Hello|Hey|Hai|)",
+        r"(Hi|Hello|Hey|Hai)",
         [
             "Oh look, it’s my favorite person! Just kidding, who are you again?",
             "Well, if it isn’t the death of the party—where have you been hiding?",

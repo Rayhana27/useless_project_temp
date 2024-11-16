@@ -38,6 +38,7 @@ pip install nltk
 
 # Run
 python app.py
+python chatbot.py<br>
 
 ### Project Documentation
 For Software:
